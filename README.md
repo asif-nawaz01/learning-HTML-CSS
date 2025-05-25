@@ -2,7 +2,7 @@
 
 Welcome to my learning repository focused on mastering the fundamentals and advanced concepts of HTML and CSS. This repo serves as a structured space where I document everything I learn as a budding frontend developer.
 
-> 🚀 I'm Sourav Kumar, a B.Tech Computer Science student at UCET Hazaribagh, currently building a strong foundation in web development.  
+> 🚀 I'm Asif Nawaz, a B.Tech Computer Science student at UCET Hazaribagh, currently building a strong foundation in web development.  
 > 🔗 GitHub: [asif-nawaz01](https://github.com/asif-nawaz01) | LinkedIn: [Asif Nawaz](https://www.linkedin.com/in/asif-nawaz-4741b6329)
 
 ---
